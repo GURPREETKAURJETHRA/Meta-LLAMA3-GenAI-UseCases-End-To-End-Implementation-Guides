@@ -17,3 +17,5 @@
 7. Run LLAMA-3 70B LLM with NVIDIA endpoints on Amazing Streamlit UI : [👉Implementation Guide▶️](https://github.com/GURPREETKAURJETHRA/LLAMA3-70B-LLM-with-NVIDIA)
 
 8. Llama 3 ORPO Fine Tuning : [👉Implementation Guide▶️](https://github.com/GURPREETKAURJETHRA/Llama-3-ORPO-Fine-Tuning)
+
+9. Meta's LLaMA3-Quantization : [👉Implementation Guide▶️](https://github.com/GURPREETKAURJETHRA/LLaMA3-Quantization)
