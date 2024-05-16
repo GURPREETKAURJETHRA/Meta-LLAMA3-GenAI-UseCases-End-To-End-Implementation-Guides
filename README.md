@@ -19,3 +19,10 @@
 8. Llama 3 ORPO Fine Tuning : [👉Implementation Guide▶️](https://github.com/GURPREETKAURJETHRA/Llama-3-ORPO-Fine-Tuning)
 
 9. Meta's LLaMA3-Quantization : [👉Implementation Guide▶️](https://github.com/GURPREETKAURJETHRA/LLaMA3-Quantization)
+
+10. Finetune Llama3 using QLoRA : [👉Implementation Guide▶️](https://github.com/GURPREETKAURJETHRA/Meta-LLAMA3-GenAI-UseCases-End-To-End-Implementation-Guides/blob/main/GENAI_NOTEBOOKS/finetune-llama3-using-qlora.ipynb)
+
+11. Llama3 Qlora Inference : [👉Implementation Guide▶️](https://github.com/GURPREETKAURJETHRA/Meta-LLAMA3-GenAI-UseCases-End-To-End-Implementation-Guides/blob/main/GENAI_NOTEBOOKS/llama3-qlora-inference.ipynb)
+
+12. Beam_Llama3-8B-finetune_task : [👉Implementation Guide▶️](https://github.com/GURPREETKAURJETHRA/Meta-LLAMA3-GenAI-UseCases-End-To-End-Implementation-Guides/blob/main/GENAI_NOTEBOOKS/Beam_Llama3-8B-finetune_task.py)
+
