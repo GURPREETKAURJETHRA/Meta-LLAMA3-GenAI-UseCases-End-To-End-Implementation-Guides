@@ -26,3 +26,4 @@
 
 12. Beam_Llama3-8B-finetune_task : [👉Implementation Guide▶️](https://github.com/GURPREETKAURJETHRA/Meta-LLAMA3-GenAI-UseCases-End-To-End-Implementation-Guides/blob/main/GENAI_NOTEBOOKS/Beam_Llama3-8B-finetune_task.py)
 
+13. Llama-3 Finetuning on custom dataset with Unsloth : [👉Implementation Guide▶️](https://github.com/GURPREETKAURJETHRA/Meta-LLAMA3-GenAI-UseCases-End-To-End-Implementation-Guides/blob/main/GENAI_NOTEBOOKS/Llama-3_Finetuning_on_custom_dataset_with_unsloth.ipynb)
