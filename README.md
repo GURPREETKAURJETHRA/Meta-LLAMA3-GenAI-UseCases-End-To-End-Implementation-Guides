@@ -28,4 +28,4 @@
 
 13. Llama-3 Finetuning on custom dataset with Unsloth : [👉Implementation Guide▶️](https://github.com/GURPREETKAURJETHRA/Meta-LLAMA3-GenAI-UseCases-End-To-End-Implementation-Guides/blob/main/GENAI_NOTEBOOKS/Llama-3_Finetuning_on_custom_dataset_with_unsloth.ipynb)
 
-14. RAG using  Llama3, Ollama and ChromaDB : [👉Implementation Guide▶️](https://github.com/GURPREETKAURJETHRA/Meta-LLAMA3-GenAI-UseCases-End-To-End-Implementation-Guides/blob/main/GENAI_NOTEBOOKS/ollama_llama_chroma_rag.ipynb)
+14. RAG using Llama3, LangChain, Ollama and ChromaDB in Flask API based Solution : [👉Implementation Guide▶️](https://github.com/GURPREETKAURJETHRA/Meta-LLAMA3-GenAI-UseCases-End-To-End-Implementation-Guides/blob/main/GENAI_NOTEBOOKS/ollama_llama_chroma_rag.ipynb)
