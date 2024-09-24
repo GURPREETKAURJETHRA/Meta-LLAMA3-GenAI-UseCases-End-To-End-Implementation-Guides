@@ -29,3 +29,14 @@
 13. Llama-3 Finetuning on custom dataset with Unsloth : [👉Implementation Guide▶️](https://github.com/GURPREETKAURJETHRA/Meta-LLAMA3-GenAI-UseCases-End-To-End-Implementation-Guides/blob/main/GENAI_NOTEBOOKS/Llama-3_Finetuning_on_custom_dataset_with_unsloth.ipynb)
 
 14. RAG using Llama3, LangChain, Ollama and ChromaDB in Flask API based Solution : [👉Implementation Guide▶️](https://github.com/GURPREETKAURJETHRA/Meta-LLAMA3-GenAI-UseCases-End-To-End-Implementation-Guides/blob/main/GENAI_NOTEBOOKS/ollama_llama_chroma_rag.ipynb)
+
+15. Llama3 Usecases: [👉Implementation Guide▶️](https://github.com/GURPREETKAURJETHRA/Meta-LLAMA3-GenAI-UseCases-End-To-End-Implementation-Guides)
+
+16. RAG using Ro-LLM, Langchain and ChromaDB : [👉Implementation Guide▶️](https://github.com/GURPREETKAURJETHRA/RAG-using-Ro-LLM-Langchain-and-ChromaDB)
+
+---
+
+#### **If you like this LLM Project do drop ⭐ to this repo**
+#### Follow me on [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gurpreetkaurjethra/) &nbsp; [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GURPREETKAURJETHRA/)
+
+---
